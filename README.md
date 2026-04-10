@@ -80,12 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aldrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laacertaa&show_icons=true&theme=dark)
-
----
-
 ## 📫 Reach Me
 
 - **Email:** aldrinlizardoa@gmail.com
