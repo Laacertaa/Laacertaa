@@ -55,11 +55,11 @@
 
 ### 🔬 What I Contributed
 
-- Implemented the co-training loop logic between SVM and KNN classifiers
-- Managed data preprocessing pipeline using MediaPipe for feature extraction
-- Conducted performance evaluation using confusion matrices and paired t-tests
-- Performed statistical analysis proving significant difference between models (p < 0.05)
-- Collaborated with FSL experts for ground truth validation
+- **Web Scraping Pipeline:** Built automated data collection using Python's **Scrapy** library to scrape unlabeled FSL video data from online sources (educational websites, social media, video platforms)
+- **Data Preprocessing & Feature Extraction:** Managed the end-to-end preprocessing pipeline using **MediaPipe** to extract hand keypoints, perform background subtraction, and isolate signer movements from video frames
+- **Co-training Implementation:** Implemented the iterative co-training loop logic between SVM and KNN classifiers for semi-supervised labeling
+- **Performance Evaluation:** Conducted model evaluation using confusion matrices, precision/recall/F1 calculations, and paired t-tests (p < 0.05) to prove statistical significance
+- **FSL Expert Collaboration:** Worked with certified FSL experts to validate ground truth labels and ensure cultural/linguistic accuracy of the dataset
 
 ### 📄 Thesis Abstract
 
